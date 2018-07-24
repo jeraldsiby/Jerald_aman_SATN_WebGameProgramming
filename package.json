@@ -1,0 +1,19 @@
+{
+  "name": "jerald_aman_satn_webgameprogramming",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jeraldsiby/Jerald_aman_SATN_WebGameProgramming.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jeraldsiby/Jerald_aman_SATN_WebGameProgramming/issues"
+  },
+  "homepage": "https://github.com/jeraldsiby/Jerald_aman_SATN_WebGameProgramming#readme"
+}
